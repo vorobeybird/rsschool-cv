@@ -6,7 +6,16 @@
     box-sizing: border-box;
     transform-origin: 0px 0px 0px;
 }
+img {
+    max-width: 50%;
+    height: auto;
+}
+.item {
+    max-width: 250px;
+    min-height: 300px;
+    max-height: auto;
 
+}
 p:blank, li:blank, div:blank, section:blank {
     display: none;
 }
