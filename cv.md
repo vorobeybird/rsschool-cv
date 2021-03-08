@@ -42,7 +42,7 @@ Programming Languages
 
 Familiar with:
 --------------
-    Windows 10, Suse/Ubuntu/Mint Linux, git, vim, vmvare etc.
+    Windows 10, Suse/Ubuntu/Mint Linux, git, docker, vim, vmvare etc.
 
 
 Code example:
